@@ -82,6 +82,69 @@ while(i<=10):
 
 for k in tup3:
     print(k)
+for k in l1:
+    print(l1)
+
+#Function
+def fun():
+    print("Hello word")
+def add_10(x):
+    return x+10
+print(add_10(10))
+def odd_even(x):
+    if(x%2==0):
+        print(x,"even")
+    else:
+        print(x,"odd")
+print(odd_even(67))
+
+#lambda function
+g=lambda x:x*x*x
+print(g(5))
+
+#application example
+l5=[4,3,4,3,6,7,9,2,1]
+f_list=list(filter(lambda x:(x%2!=0),l5))
+
+#oop's python
+class Phone:
+    def make_call(self):
+        print("Making phone call")
+    def play_games(self):
+        print("Playing games")
+    def set_color(self,color):
+        self.color=color
+    def view_color(self):
+        return self.color
+
+p1=Phone()
+p1.make_call()
+p1.play_games()
+print(p1.set_color("red"))
+print(p1.view_color())
+class Employee:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def employee_details(self):
+        print(self.name)
+        print(self.age)
+p2 = Employee("Sam", 32)
+p2.employee_details()
+# Parent class
+class Vehicle:
+    def __init__(self, mileage):
+        self.mileage = mileage
+
+    def shows(self):
+        print(self.mileage)
+# Child class
+class Car(Vehicle):
+    def show(self):
+        print("I am a car")
 
 
-
+c1 = Car(200)
+c1.show()
+c1.shows()
