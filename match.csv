@@ -1,0 +1,104 @@
+world_cup_year,stage,opponent,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,player_of_the_match,venue
+2007,Group D,Scotland,Scotland,field,No Result,0,0,,"Kingsmead, Durban"
+2007,Group D,Pakistan,India,bat,India (bowl-out),0,0,Mohammed Hafeez,"Kingsmead, Durban"
+2007,Super 8,England,England,field,India,18,0,Yuvraj Singh,"Kingsmead, Durban"
+2007,Super 8,New Zealand,New Zealand,bat,New Zealand,10,0,Daniel Vettori,"The Wanderers Stadium, Johannesburg"
+2007,Super 8,South Africa,South Africa,bat,India,37,0,Rohit Sharma,"Kingsmead, Durban"
+2007,Semi-final,Australia,Australia,field,India,15,0,Yuvraj Singh,"Kingsmead, Durban"
+2007,Final,Pakistan,India,bat,India,5,0,Irfan Pathan,"The Wanderers Stadium, Johannesburg"
+2009,Group A,Bangladesh,Bangladesh,field,India,25,0,Pragyan Ojha,"Trent Bridge, Nottingham"
+2009,Group A,Ireland,India,bat,India,0,8,Yuvraj Singh,"Trent Bridge, Nottingham"
+2009,Super 8,West Indies,West Indies,field,West Indies,0,7,Chris Gayle,"Lord's, London"
+2009,Super 8,England,England,field,England,0,3,Luke Wright,"Lord's, London"
+2009,Super 8,South Africa,South Africa,field,South Africa,0,12,AB de Villiers,"Trent Bridge, Nottingham"
+2010,Group C,Afghanistan,India,field,India,0,7,Ashish Nehra,"Gros Islet, Saint Lucia"
+2010,Group C,South Africa,South Africa,field,India,14,0,Suresh Raina,"Gros Islet, Saint Lucia"
+2010,Super 8,Australia,Australia,bat,Australia,49,0,David Warner,"Bridgetown, Barbados"
+2010,Super 8,Sri Lanka,Sri Lanka,field,Sri Lanka,0,5,Mahela Jayawardene,"Gros Islet, Saint Lucia"
+2010,Super 8,West Indies,West Indies,field,India,14,0,Rohit Sharma,"Bridgetown, Barbados"
+2012,Group A,Afghanistan,India,bat,India,23,0,Virat Kohli,Colombo
+2012,Group A,England,England,field,India,90,0,Harbhajan Singh,Colombo
+2012,Super 8,Australia,Australia,field,Australia,0,9,Shane Watson,Colombo
+2012,Super 8,Pakistan,Pakistan,bat,India,0,8,Virat Kohli,Colombo
+2012,Super 8,South Africa,South Africa,field,South Africa,1,0,Jacques Kallis,Colombo
+2014,Group 2,Pakistan,Pakistan,bat,India,0,7,Amit Mishra,Dhaka
+2014,Group 2,West Indies,West Indies,bat,India,0,7,Amit Mishra,Dhaka
+2014,Group 2,Bangladesh,Bangladesh,field,India,0,8,Amit Mishra,Dhaka
+2014,Group 2,Australia,Australia,bat,India,73,0,Ravichandran Ashwin,Dhaka
+2014,Group 2,South Africa,South Africa,field,India,0,6,Virat Kohli,Dhaka
+2014,Final,Sri Lanka,Sri Lanka,field,Sri Lanka,0,6,Kumar Sangakkara,Dhaka
+2016,Super 10,New Zealand,New Zealand,bat,New Zealand,47,0,Mitchell Santner,Nagpur
+2016,Super 10,Pakistan,Pakistan,bat,India,0,6,Virat Kohli,Kolkata
+2016,Super 10,Bangladesh,India,bat,India,1,0,Hardik Pandya,Bengaluru
+2016,Super 10,Australia,Australia,bat,India,0,6,Virat Kohli,Mohali
+2016,Semi-final,West Indies,West Indies,field,West Indies,0,7,Lendl Simmons,Mumbai
+2021,Super 12,Pakistan,India,bat,Pakistan,0,10,Shaheen Shah Afridi,Dubai
+2021,Super 12,New Zealand,New Zealand,field,New Zealand,0,8,Trent Boult,Dubai
+2021,Super 12,Afghanistan,India,bat,India,66,0,Rohit Sharma,Abu Dhabi
+2021,Super 12,Scotland,India,field,India,0,8,Ravindra Jadeja,Dubai
+2021,Super 12,Namibia,Namibia,field,India,0,9,Ravindra Jadeja,Dubai
+2022,Super 12,Pakistan,Pakistan,field,India,0,4,Virat Kohli,Melbourne
+2022,Super 12,Netherlands,Netherlands,field,India,56,0,Suryakumar Yadav,Sydney
+2022,Super 12,South Africa,South Africa,field,South Africa,0,5,Lungi Ngidi,Perth
+2022,Super 12,Bangladesh,Bangladesh,field,India,5,0,Virat Kohli,Adelaide
+2022,Super 12,Zimbabwe,Zimbabwe,field,India,71,0,Suryakumar Yadav,Melbourne
+2022,Semi-final,England,England,field,England,0,10,Alex Hales,Adelaide
+2024,Group A,Ireland,Ireland,field,India,0,8,Jasprit Bumrah,New York
+2024,Group A,Pakistan,Pakistan,field,India,6,0,Jasprit Bumrah,New York
+2024,Group A,USA,USA,bat,India,0,7,Suryakumar Yadav,New York
+2024,Group A,Canada,Canada,bat,India,0,7,Suryakumar Yadav,Lauderhill
+2024,Super 8,Afghanistan,Afghanistan,field,India,47,0,Suryakumar Yadav,Bridgetown
+2024,Super 8,Bangladesh,India,bat,India,50,0,Hardik Pandya,Antigua
+2024,Super 8,Australia,Australia,field,India,24,0,Rohit Sharma,Saint Lucia
+2024,Semi-final,England,England,field,India,68,0,Axar Patel,Guyana
+2024,Final,South Africa,South Africa,field,India,7,0,Virat Kohli,Bridgetown
+2026,Group A,USA,USA,field,India,29,0,Ishan Kishan,Mumbai
+2026,Group A,Namibia,Namibia,field,India,93,0,Ishan Kishan,Delhi
+2026,Group A,Pakistan,Pakistan,field,India,61,0,Ishan Kishan,Colombo
+2026,Group A,Netherlands,Netherlands,field,India,17,0,Suryakumar Yadav,Delhi
+2026,Super 8,South Africa,South Africa,bat,South Africa,76,0,David Miller,Ahmedabad
+2026,Super 8,Zimbabwe,Zimbabwe,field,India,72,0,Hardik Pandya,Chennai
+2026,Super 8,West Indies,West Indies,bat,India,0,5,Shubman Gill,Kolkata
+2026,Semi-final,England,England,field,India,7,0,Sanju Samson,Mumbai
+2026,Final,New Zealand,New Zealand,field,India,96,0,Jasprit Bumrah,Ahmedabad
+2007,Group B,Bangladesh,Bangladesh,field,Bangladesh,0,5,Mashrafe Mortaza,Port of Spain
+2007,Group B,Bermuda,India,bat,India,257,0,Virender Sehwag,Port of Spain
+2007,Group B,Sri Lanka,India,field,Sri Lanka,69,0,Muttiah Muralitharan,Port of Spain
+2011,Group B,Bangladesh,India,bat,India,87,0,Virender Sehwag,Dhaka
+2011,Group B,England,England,field,Tie,0,0,Sachin Tendulkar,Bengaluru
+2011,Group B,Ireland,Ireland,field,India,0,5,Yuvraj Singh,Bengaluru
+2011,Group B,Netherlands,Netherlands,bat,India,0,5,Yuvraj Singh,Delhi
+2011,Group B,South Africa,India,bat,South Africa,3,0,AB de Villiers,Nagpur
+2011,Group B,West Indies,West Indies,field,India,80,0,Yuvraj Singh,Chennai
+2011,Quarter-final,Australia,Australia,bat,India,0,5,Sachin Tendulkar,Ahmedabad
+2011,Semi-final,Pakistan,Pakistan,field,India,29,0,Sachin Tendulkar,Mohali
+2011,Final,Sri Lanka,Sri Lanka,bat,India,0,6,MS Dhoni,Mumbai
+2015,Pool B,Pakistan,Pakistan,field,India,76,0,Virat Kohli,Adelaide
+2015,Pool B,South Africa,South Africa,field,India,130,0,Shikhar Dhawan,Melbourne
+2015,Pool B,UAE,UAE,field,India,0,9,Rohit Sharma,Perth
+2015,Pool B,West Indies,West Indies,field,India,0,4,Mohammed Shami,Perth
+2015,Pool B,Ireland,Ireland,bat,India,0,8,Shikhar Dhawan,Hamilton
+2015,Pool B,Zimbabwe,Zimbabwe,bat,India,0,6,Suresh Raina,Auckland
+2015,Quarter-final,Bangladesh,Bangladesh,field,India,109,0,Rohit Sharma,Melbourne
+2015,Semi-final,Australia,Australia,bat,Australia,95,0,Steven Smith,Sydney
+2019,Group stage,South Africa,South Africa,field,India,0,6,Rohit Sharma,Southampton
+2019,Group stage,Australia,Australia,field,India,36,0,Shikhar Dhawan,The Oval
+2019,Group stage,New Zealand,New Zealand,field,No Result,0,0,,Nottingham
+2019,Group stage,Pakistan,Pakistan,field,India,89,0,Rohit Sharma,Manchester
+2019,Group stage,Afghanistan,Afghanistan,field,India,11,0,Jasprit Bumrah,Southampton
+2019,Group stage,West Indies,West Indies,field,India,125,0,Virat Kohli,Manchester
+2019,Group stage,England,England,bat,England,31,0,Jonny Bairstow,Birmingham
+2019,Group stage,Bangladesh,Bangladesh,field,India,28,0,Rohit Sharma,Birmingham
+2019,Group stage,Sri Lanka,Sri Lanka,bat,India,0,7,Rohit Sharma,Leeds
+2019,Semi-final,New Zealand,New Zealand,bat,New Zealand,18,0,Matt Henry,Manchester
+2023,Group stage,Australia,Australia,bat,India,0,6,KL Rahul,Chennai
+2023,Group stage,Afghanistan,Afghanistan,bat,India,0,8,Rohit Sharma,Delhi
+2023,Group stage,Pakistan,Pakistan,field,India,0,7,Rohit Sharma,Ahmedabad
+2023,Group stage,Bangladesh,Bangladesh,bat,India,0,7,Virat Kohli,Pune
+2023,Group stage,New Zealand,New Zealand,bat,India,0,4,Mohammed Shami,Dharamsala
+2023,Group stage,England,England,field,India,100,0,Mohammed Shami,Lucknow
+2023,Group stage,Sri Lanka,Sri Lanka,field,India,302,0,Mohammed Shami,Mumbai
+2023,Group stage,South Africa,South Africa,field,India,243,0,Ravindra Jadeja,Kolkata
+2023,Group stage,Netherlands,Netherlands,field,India,160,0,Shreyas Iyer,Bengaluru
+2023,Semi-final,New Zealand,New Zealand,field,India,70,0,Mohammed Shami,Mumbai
+2023,Final,Australia,Australia,field,Australia,0,6,Travis Head,Ahmedabad

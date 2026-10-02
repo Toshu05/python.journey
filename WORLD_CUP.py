@@ -1,0 +1,40 @@
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+import seaborn as sns
+match=pd.read_csv('match.csv')
+print(match.head())
+print(match.shape)
+print(match['player_of_the_match'].value_counts())
+print(match['player_of_the_match'].value_counts()[0:10])
+print(match['player_of_the_match'].value_counts()[0:5].keys())
+print(match['player_of_the_match'].value_counts())
+print(match['win_by_runs'].value_counts())
+batting_first=match[match['win_by_runs']!=0]
+print(batting_first)
+print(batting_first.head())
+#making a histogram
+plt.figure(figsize=(5,7))
+plt.hist(batting_first['win_by_runs'])
+plt.show()
+plt.figure(figsize=(8,5))
+#plt.bar(list(batting_first['winner'].value_counts()[0:3].keys()),list(batting_first['winner'].value_counts()[0:3]))
+counts=batting_first['winner'].value_counts().head(5)
+plt.bar(counts.index,counts.values)
+plt.show()
+plt.pie(counts.values,labels=counts.index,autopct='%0.1f%%')
+plt.show()
+batting_second=match[match['win_by_wickets']!=0]
+print(batting_second)
+plt.figure(figsize=(6,6))
+plt.hist(batting_second['win_by_wickets'],bins=15)
+plt.show()
+print(batting_second['winner'].value_counts())
+counts=batting_second['winner'].value_counts().head(5)
+plt.bar(counts.index,counts.values)
+plt.show()
+plt.pie(counts.values,labels=counts.index,autopct='%0.1f%%')
+plt.show()
+print(match['world_cup_year'].value_counts())
+print(match['venue'].value_counts())
+print(np.sum(match['toss_winner']==match['winner']))
